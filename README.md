@@ -17,8 +17,8 @@ This project analyzes a dataset collected from data professionals through a surv
 ---
 
 ## Additional Files
-- **`Data-Cleaning-Documentation.md`** → Full breakdown of the data cleaning steps.
-- **`Analysis.md`** → Detailed explanations of findings, visualizations, and insights.
-- **`Dashboard.pdf`** → A dashboard with all the visualizations created for this project.
+- [`Data-Cleaning-Documentation.md`](https://github.com/jamesfisher19/Data-Professional-Analysis/blob/main/Analysis/Data-Cleaning-Documentation.md) → Full breakdown of the data cleaning steps.
+- [`Analysis.md`](https://github.com/jamesfisher19/Data-Professional-Analysis/blob/main/Analysis/Analysis.md) → Detailed explanations of findings, visualizations, and insights.
+- [`Dashboard.pdf`](https://github.com/jamesfisher19/Data-Professional-Analysis/blob/main/Analysis/Dashboard.pdf) → A dashboard with all the visualizations created for this project.
 
 ---
