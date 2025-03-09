@@ -1,7 +1,7 @@
 # Data Professional Survey Analysis
 
 ## Overview
-This project analyzes a dataset collected from data professionals through a survey conducted by **Alex the Analyst**. The dataset provides insights into various aspects of the data industry, including **salary satisfaction, work-life balance, programming language preferences, and job roles.** 
+This project analyzes a dataset collected from data professionals through a survey conducted by Alex the Analyst. Using Power BI, the dataset was cleaned, visualized, and analyzed to uncover insights into various aspects of the data industry, including salary satisfaction, work-life balance, programming language preferences, and job roles. 
 
 ## Dataset
 **Source:** [Alex the Analyst - Power BI Final Project Dataset](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
